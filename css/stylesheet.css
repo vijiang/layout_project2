@@ -136,6 +136,7 @@ a.skiplink:focus, a.skiplink:active{
   #container{
     width: 100%;
     margin: 0;
+    background-color: inherit;
   }
 
 
